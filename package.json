@@ -1,0 +1,38 @@
+{
+  "name": "fcc-taipei",
+  "version": "1.0.0",
+  "description": "Community driven project by Free Code Camp - Taipei: https://www.facebook.com/groups/free.code.camp.taipei/",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.2.10",
+    "express": "^3.2.6",
+    "mongodb": "^2.0.45",
+    "nodejs": "0.0.0",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Beltayn/fcc-taipei.git"
+  },
+  "keywords": [
+    "free",
+    "code",
+    "camp",
+    "learning",
+    "fullstack",
+    "javascript",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "Shannon Tarislar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beltayn/fcc-taipei/issues"
+  },
+  "homepage": "https://github.com/Beltayn/fcc-taipei"
+}
